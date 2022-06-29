@@ -1,0 +1,50 @@
+body {
+
+    padding: 0;
+    margin: 0;
+    background: #E5E5E5;
+
+}
+
+#login {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.card {
+
+    background: #668CED;
+    padding: 40px;
+    border-radius: 2px;
+    width:280px;
+
+}
+
+.card-header {
+
+    padding-bottom: 100px;
+    opacity: 0.8;
+    color: #fff;
+
+}
+
+
+
+
+
+.card-usuario{
+    color: #fff;
+}
+
+.card-content-op{
+    background: #E5E5E5;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
